@@ -2,5 +2,20 @@ ex06
 
 ?/20
 
+Je ne peux pas exécuter le code (couleur rouge).
+
+lib/e6lib.dart:
+library ex06;
+
+bin/e6answer.dart:
+part of ex06;
+
+? .gitignore:
+ignore packages
+
+----
+
+?/20
+
 s'il vous plaît utiliser le fichier pubspec.yaml
 
