@@ -1,4 +1,4 @@
-part of ex06;
+library ex6;
 
 bool palindrome(String sentence) {
 var normal = 0;
