@@ -1,4 +1,4 @@
-name: E6lib
-description: A sample web application
-dependencies:
-  browser: any
+name: ex06
+description: A sample command-line application
+#dev_dependencies:
+# unittest: any
