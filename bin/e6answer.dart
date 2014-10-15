@@ -1,5 +1,4 @@
-library ex06;
-part 'e6lib.dart';
+import 'package:ex6/e6lib.dart';
 
 void e6q1() {
   var pal1 = 'kayak';
